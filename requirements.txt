@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+google-generativeai
+python-dotenv
+pymysql           # Required for MySQL database connection
+pytest            # Required for running your test suite
+httpx             # Required for FastAPI TestClient

@@ -1,0 +1,22 @@
+{
+  "sample_resumes": [
+    {
+      "persona": "Recent Graduate",
+      "Your Resume": "Bachelor of Science in Computer Science. Proficient in Java, Python, and SQL. Completed academic projects in web development using React. Looking for entry-level Software Engineering roles."
+    },
+    {
+      "persona": "Career Switcher",
+      "Your Resume": "10 years of experience in Retail Management. Expert in team leadership, budget oversight, and operations. Transitioning into IT; recently completed a Python Bootcamp and earned an AWS Cloud Practitioner certification."
+    },
+    {
+      "persona": "Mentor",
+      "Your Resume": "Senior DevOps Engineer with 15 years of industry experience. Expertise in Kubernetes, Terraform, and CI/CD pipelines. Using the tool to generate roadmaps for junior team members."
+    }
+  ],
+  "target_roles": [
+    "Cloud Engineer",
+    "Data Scientist",
+    "Cybersecurity Analyst",
+    "Full Stack Developer"
+  ]
+}
