@@ -164,7 +164,7 @@ function App() {
           >
             <option>Recent Graduate</option>
             <option>Career Switcher</option>
-            <option>Senior Professional</option>
+            <option>Mentor</option>
           </select>
 
           <label style={labelStyle}>Your Resume / Skills:</label>
