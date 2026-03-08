@@ -5,6 +5,7 @@
 Candidate Name: Avantika Ramesh Chapegadikar  
 Scenario Chosen: Scenario 2 – Skill-Bridge Career Navigator  
 Estimated Time Spent: 5–6 Hours
+Demo link: https://drive.google.com/file/d/1zDZJl3lac8YxOzzemavErkQHRfT738Gz/view?usp=sharing
 
 
 ## 1. Quick Start
